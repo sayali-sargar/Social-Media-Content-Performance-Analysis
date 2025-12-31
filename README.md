@@ -6,7 +6,7 @@ The project was built using a global dataset and submitted as part of the **Onyx
 
 ---
 
-## Tools Used
+## Tools & Skills Used
 - Power BI
 - ZoomCharts Drill Down Visuals
 - Data Analysis & Visualization
