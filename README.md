@@ -1,7 +1,7 @@
 # Social Media Content Performance Analysis
 
 ## Project Overview
-This project analyzes social media post performance across major platforms using Power BI. The objective is to understand how content type, platform, region, and posting strategy impact engagement, views, and clicks.  
+This project analyzes social media post performance across major platforms using Power BI.The objective is to identify which content strategies and platforms drive engagement, reach, and conversions across regions.
 The project was built using a global dataset and submitted as part of the **Onyx Data – DataDNA Dataset Challenge (2025)**.
 
 ---
@@ -29,7 +29,7 @@ The project was built using a global dataset and submitted as part of the **Onyx
 
 - **Video content is the strongest driver of performance**, generating the highest average views (1.24M per post), significantly outperforming images, PDFs, and carousel formats.
 
-- **TikTok and YouTube dominate overall engagement**, each contributing 1B views and together accounting for the majority of total engagement, making them ideal for reach and awareness campaigns.
+- **TikTok and YouTube each generate 1B views and together contribute the largest share of total engagement**, making them the most effective platforms for **reach-driven and awareness-focused campaigns**.
 
 - **Instagram delivers the highest quality engagement**, with the top average engagement rate (15.86%), indicating stronger user interaction despite slightly lower scale than TikTok and YouTube.
 
