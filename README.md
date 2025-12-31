@@ -37,7 +37,7 @@ The project was built using a global dataset and submitted as part of the **Onyx
 
 - **Educational and Product Promotion content consistently outperform other categories across regions**, especially in India, the USA, and Europe, highlighting strong user preference for value-driven content.
 
-- **Organic content drives ~82% of total engagement**, compared to ~18% from sponsored posts, indicating that authentic, non-paid content resonates more strongly with audiences.
+- **Organic content drives 82% of total engagement**, compared to 18% from sponsored posts, indicating that authentic, non-paid content resonates more strongly with audiences.
 
 ---
 
